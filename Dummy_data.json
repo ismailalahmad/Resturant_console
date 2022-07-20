@@ -1,0 +1,293 @@
+{
+  "Sections": [
+    {
+      "id": "s1",
+      "title": "Italian"
+    },
+    {
+      "id": "s2",
+      "title": "Quick & Easy"
+    },
+    {
+      "id": "s3",
+      "title": "Hamburgers"
+    },
+    {
+      "id": "s4",
+      "title": "German"
+    },
+    {
+      "id": "s5",
+      "title": "Light & Lovely"
+    },
+    {
+      "id": "s6",
+      "title": "Exotic"
+    },
+    {
+      "id": "s7",
+      "title": "Breakfast"
+    },
+    {
+      "id": "s8",
+      "title": "Asian"
+    },
+    {
+      "id": "s9",
+      "title": "French"
+    },
+    {
+      "id": "s10",
+      "title": "Summer"
+    }
+  ],
+  "Meals": {
+    "Meal_1": {
+      "id": "m1",
+      "categories": [
+        "s1",
+        "s2"
+      ],
+      "title": "Spaghetti with Tomato Sauce",
+      "ingredients": [
+        "4 Tomatoes",
+        "1 Tablespoon of Olive Oil",
+        "1 Onion",
+        "250g Spaghetti",
+        "Spices",
+        "Cheese (optional)"
+      ],
+      "steps": [
+        "Cut the tomatoes and the onion into small pieces.",
+        "Boil some water - add salt to it once it boils.",
+        "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.",
+        "In the meantime, heaten up some olive oil and add the cut onion.",
+        "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.",
+        "The sauce will be done once the spaghetti are.",
+        "Feel free to add some cheese on top of the finished dish."
+      ]
+    },
+    "Meal_2": {
+      "id": "m2",
+      "categories": [
+        "s2"
+      ],
+      "title": "Toast Hawaii",
+      "ingredients": [
+        "1 Slice White Bread",
+        "1 Slice Ham",
+        "1 Slice Pineapple",
+        "1-2 Slices of Cheese",
+        "Butter"
+      ],
+      "steps": [
+        "Butter one side of the white bread",
+        "Layer ham, the pineapple and cheese on the white bread",
+        "Bake the toast for round about 10 minutes in the oven at 200°C"
+      ]
+    },
+    "Meal_3": {
+      "id": "m3",
+      "categories": [
+        "s2",
+        "s3"
+      ],
+      "title": "Classic Hamburger",
+      "ingredients": [
+        "300g Cattle Hack",
+        "1 Tomato",
+        "1 Cucumber",
+        "1 Onion",
+        "Ketchup",
+        "2 Burger Buns"
+      ],
+      "steps": [
+        "Cut the tomatoes and the onion into small pieces.",
+        "Boil some water - add salt to it once it boils.",
+        "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.",
+        "In the meantime, heaten up some olive oil and add the cut onion.",
+        "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.",
+        "The sauce will be done once the spaghetti are.",
+        "Feel free to add some cheese on top of the finished dish."
+      ]
+    },
+    "Meal_4": {
+      "id": "m4",
+      "categories": [
+        "s4"
+      ],
+      "title": "Wiener Schnitzel",
+      "ingredients": [
+        "8 Veal Cutlets",
+        "4 Eggs",
+        "200g Bread Crumbs",
+        "100g Flour",
+        "300ml Butter",
+        "100g Vegetable Oil",
+        "Salt",
+        "Lemon Slices"
+      ],
+      "steps": [
+        "Tenderize the veal to about 2–4mm, and salt on both sides.",
+        "On a flat plate, stir the eggs briefly with a fork.",
+        "Lightly coat the cutlets in flour then dip into the egg, and finally, coat in breadcrumbs.",
+        "Heat the butter and oil in a large pan (allow the fat to get very hot) and fry the schnitzels until golden brown on both sides.",
+        "Make sure to toss the pan regularly so that the schnitzels are surrounded by oil and the crumbing becomes ‘fluffy’.",
+        "Remove, and drain on kitchen paper. Fry the parsley in the remaining oil and drain.",
+        "Place the schnitzels on awarmed plate and serve garnishedwith parsley and slices of lemon."
+      ]
+    },
+    "Meal_5": {
+      "id": "m5",
+      "categories": [
+        "s2",
+        "s5",
+        "s10"
+      ],
+      "title": "Salad with Smoked Salmon",
+      "ingredients": [
+        "Arugula",
+        "Lamb's Lettuce",
+        "Parsley",
+        "Fennel",
+        "200g Smoked Salmon",
+        "Mustard",
+        "Balsamic Vinegar",
+        "Olive Oil",
+        "Salt and Pepper"
+      ],
+      "steps": [
+        "Wash and cut salad and herbs",
+        "Dice the salmon",
+        "Process mustard, vinegar and olive oil into a dessing",
+        "Prepare the salad",
+        "Add salmon cubes and dressing"
+      ]
+    },
+    "Meal_6": {
+      "id": "m6",
+      "categories": [
+        "s6",
+        "s10"
+      ],
+      "title": "Delicious Orange Mousse",
+      "ingredients": [
+        "4 Sheets of Gelatine",
+        "150ml Orange Juice",
+        "80g Sugar",
+        "300g Yoghurt",
+        "200g Cream",
+        "Orange Peel"
+      ],
+      "steps": [
+        "Dissolve gelatine in pot",
+        "Add orange juice and sugar",
+        "Take pot off the stove",
+        "Add 2 tablespoons of yoghurt",
+        "Stir gelatin under remaining yoghurt",
+        "Cool everything down in the refrigerator",
+        "Whip the cream and lift it under die orange mass",
+        "Cool down again for at least 4 hours",
+        "Serve with orange peel"
+      ]
+    },
+    "Meal_7": {
+      "id": "m7",
+      "categories": [
+        "s7"
+      ],
+      "title": "Pancakes",
+      "ingredients": [
+        "4 Tomatoes",
+        "1 Tablespoon of Olive Oil",
+        "1 Onion",
+        "250g Spaghetti",
+        "Spices",
+        "Cheese (optional)"
+      ],
+      "steps": [
+        "Cut the tomatoes and the onion into small pieces.",
+        "Boil some water - add salt to it once it boils.",
+        "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.",
+        "In the meantime, heaten up some olive oil and add the cut onion.",
+        "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.",
+        "The sauce will be done once the spaghetti are.",
+        "Feel free to add some cheese on top of the finished dish."
+      ]
+    },
+    "Meal_8": {
+      "id": "m8",
+      "categories": [
+        "s8"
+      ],
+      "title": "Creamy Indian Chicken Curry",
+      "ingredients": [
+        "4 Tomatoes",
+        "1 Tablespoon of Olive Oil",
+        "1 Onion",
+        "250g Spaghetti",
+        "Spices",
+        "Cheese (optional)"
+      ],
+      "steps": [
+        "Cut the tomatoes and the onion into small pieces.",
+        "Boil some water - add salt to it once it boils.",
+        "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.",
+        "In the meantime, heaten up some olive oil and add the cut onion.",
+        "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.",
+        "The sauce will be done once the spaghetti are.",
+        "Feel free to add some cheese on top of the finished dish."
+      ]
+    },
+    "Meal_9": {
+      "id": "m9",
+      "categories": [
+        "s9"
+      ],
+      "title": "Chocolate Souffle",
+      "ingredients": [
+        "4 Tomatoes",
+        "1 Tablespoon of Olive Oil",
+        "1 Onion",
+        "250g Spaghetti",
+        "Spices",
+        "Cheese (optional)"
+      ],
+      "steps": [
+        "Cut the tomatoes and the onion into small pieces.",
+        "Boil some water - add salt to it once it boils.",
+        "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.",
+        "In the meantime, heaten up some olive oil and add the cut onion.",
+        "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.",
+        "The sauce will be done once the spaghetti are.",
+        "Feel free to add some cheese on top of the finished dish."
+      ]
+    },
+    "Meal_10": {
+      "id": "m10",
+      "categories": [
+        "s2",
+        "s5",
+        "10"
+      ],
+      "title": "Spaghetti with Tomato Sauce",
+      "ingredients": [
+        "4 Tomatoes",
+        "1 Tablespoon of Olive Oil",
+        "1 Onion",
+        "250g Spaghetti",
+        "Spices",
+        "Cheese (optional)"
+      ],
+      "steps": [
+        "Cut the tomatoes and the onion into small pieces.",
+        "Boil some water - add salt to it once it boils.",
+        "Put the spaghetti into the boiling water - they should be done in about 10 to 12 minutes.",
+        "In the meantime, heaten up some olive oil and add the cut onion.",
+        "After 2 minutes, add the tomato pieces, salt, pepper and your other spices.",
+        "The sauce will be done once the spaghetti are.",
+        "Feel free to add some cheese on top of the finished dish."
+      ]
+    }
+  }
+}
